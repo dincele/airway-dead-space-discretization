@@ -1,4 +1,4 @@
-# Airway discretization in lumped models of pulmonary gas exchange: how many compartments are enough?
+# Airway discretization in lumped simulation models of pulmonary gas exchange: how many compartments are enough?
 
 Code and Supplemental Material for the paper of the same title by Emre Dincel
 (Istanbul Technical University). The Supplemental Material S1 to S6 is
